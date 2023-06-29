@@ -1,0 +1,18 @@
+
+USUARIOS
+{
+  "nombre": "Franco",
+  "contraseña": "1234",
+  "tipoUsuario": "admin",
+  "idUsuario": 6
+}
+
+PRODUCTOS
+{
+  "nombre": "Moto g72",
+  "descripcion": "celu",
+  "precio": 540,
+  "descuento": 10,
+  "idProducto": 6
+}
+
